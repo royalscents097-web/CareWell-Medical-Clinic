@@ -1,0 +1,6 @@
+{
+  "name": "CareWell Medical Clinic",
+  "description": "Comprehensive, compassionate healthcare with modern clinical excellence and patient-focused medical services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
